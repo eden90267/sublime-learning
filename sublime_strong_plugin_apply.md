@@ -54,7 +54,7 @@ Package Control：外掛管理程式
 
 ---
 
-參考連結：
+參考資料：
 
 [Sublime超強外掛應用](http://course.cool3c.com/courses/enrolled/sublime)
 
